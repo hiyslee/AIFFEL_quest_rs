@@ -1,5 +1,6 @@
-#first-repo
-.
+#project 1
+The Strucutre is as follow:
+AIFFEL_quest_rs
 ├── Exploration
 │   ├── Ex01
 │   ├── Ex02
