@@ -41,10 +41,9 @@
 # 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
 ```
 
-#The Strucutre is as follow:
-## 📂 Project Structure
+#The Directory Strucutre is as follow:
+## 📂 Project Directory Structure
 
-```text
 AIFFEL_quest_rs
 ├── Exploration
 │   ├── Ex01
