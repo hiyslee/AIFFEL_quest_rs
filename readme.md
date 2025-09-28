@@ -44,6 +44,7 @@
 #The Directory Strucutre is as follow:
 ## 📂 Project Directory Structure
 
+'''
 AIFFEL_quest_rs
 ├── Exploration
 │   ├── Ex01
