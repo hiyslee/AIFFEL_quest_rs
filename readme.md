@@ -1,4 +1,3 @@
-'''
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 이영석
 - 리뷰어 : 조웅제
@@ -43,7 +42,7 @@
 ```
 
 #The Strucutre is as follow:
-
+'''
 AIFFEL_quest_rs
 ├── Exploration
 │   ├── Ex01
@@ -71,6 +70,6 @@ AIFFEL_quest_rs
     ├── Quest03
     ├── Quest04
     └── Quest05
-
-21 directories
 '''
+21 directories
+
