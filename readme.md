@@ -42,8 +42,8 @@
 ```
 
 #The Strucutre is as follow:
-'''
-AIFFEL_quest_rs
+
+'''AIFFEL_quest_rs
 ├── Exploration
 │   ├── Ex01
 │   ├── Ex02
@@ -69,7 +69,7 @@ AIFFEL_quest_rs
     ├── Quest02
     ├── Quest03
     ├── Quest04
-    └── Quest05
-'''
+    └── Quest05'''
+
 21 directories
 
