@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 이영석
-- 리뷰어 : 조웅제
+- 코더 : 
+- 리뷰어 : 
 
 # PRT(Peer Review Template)
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
@@ -40,6 +40,3 @@
 # 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
 # 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
 ```
-
-#The Directory Strucutre is as follow:
-## 📂 Project Directory Structure
