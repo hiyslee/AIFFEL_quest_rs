@@ -1,3 +1,26 @@
+🚀 GD01 Sentiment Classification Project Report
+
+📌 Overview
+
+GD01 프로젝트는 한국어 영화 리뷰 데이터셋에 대해 LSTM 기반 감성 분석 모델을 구축하고,
+형태소 분석기(Mecab, OKT) + SentencePiece 조합이 성능에 미치는 영향을 실험적으로 비교하는 프로젝트입니다.
+
+📂 Experiments Summary
+| 실험 번호             | Tokenizer | SentencePiece | Model | Accuracy   | Notes            |
+| ----------------- | --------- | ------------- | ----- | ---------- | ---------------- |
+| **Base**          | Mecab     | ✔             | LSTM  | **84.42%** | 최고 성능            |
+| **Experiment #1** | OKT       | ✔             | LSTM  | 83.72%     | 속도 빠름            |
+| **Experiment #2** | Mecab     | ✘             | LSTM  | 55.50%     | SentencePiece 필수 |
+
+자세한 내용은 
+
+디렉토리에 첨부된 화일들을 순서대로 참조 요망
+1) 11-13 GD01 프로젝트 보고서.pdf : 전체 결과 보고 및 관련 자료 소개
+2) Base model: GD01_Base_mecab+sentencepiece_LSTMv2.ipynb
+3) 실험 #1: GD01_experiment01_okt+sentencepiece+LSTM.ipynb
+4) 실험 #2: GD01_experiment02_Mecabtoken+LSTM.ipynb
+==========================================================
+
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 
 - 리뷰어 : 
