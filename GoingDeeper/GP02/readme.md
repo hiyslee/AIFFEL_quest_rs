@@ -1,3 +1,5 @@
+최종버전 화일: GD02_IMPROVED_SOFT_VOTING_최종.jpynb
+
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 
 - 리뷰어 : 
