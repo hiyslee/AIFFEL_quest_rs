@@ -1,3 +1,16 @@
+<중요> 
+
+꼭 읽어주세요.
+코랩 에러로 산출물을 지우고 올립니다
+중요 코랩에서 다시 에러 발생. 출력을 모두 지우고 다시 올립니다. 출력물을 참조하시려면 아래 코랩 링크를 들어가주세요.
+https://colab.research.google.com/drive/1esHrnI15nXICQpGta8qxYINiND02X3t1?usp=sharing
+
+최종 산출물은 Project9_nod_base_nooutput.ipynb 이고 (이후 프로젝트 분석 내용 등을 조금더 정리해서 업데이트한 내용은 ..._최종.ipynb에 업데이트 했습니다.)
+안에 설명된 링크이나 위 링크로 코랩화일을 들어가시면 산출물을 보실 수 있어요.
+
+Project9_nod_base.ipynb도 코드 내용은 동일합니다.
+
+
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 :  이영석
 - 리뷰어 : 김완수
